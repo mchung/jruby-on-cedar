@@ -1,1 +1,1 @@
-web:      jruby -s bundle exec glassfish
+web:      which lein
