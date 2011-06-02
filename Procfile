@@ -1,1 +1,1 @@
-web:      bundle exec glassfish
+web:      jruby -s bundle exec glassfish
