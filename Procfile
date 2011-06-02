@@ -1,1 +1,1 @@
-web:      which lein
+web:      bundle exec glassfish
