@@ -1,1 +1,1 @@
-web:      bundle exec glassfish
+web:      bundle exec mizuno -p $PORT
