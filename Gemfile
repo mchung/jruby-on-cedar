@@ -1,6 +1,6 @@
 source :rubygems
 gem 'sinatra'
-gem 'glassfish'
+gem 'mizuno'
 gem 'rake'
 gem 'heroku'
 gem 'foreman'
